@@ -23,7 +23,7 @@ public class ColaPrioridad<T>{
     public void enqueue(T element,int prioridad){
         CP[prioridad].enqueue(element);
         
-    }
+    }jbjbkjb
     
     public T dequeue(){
         for (int i=0;this.CP.length>i; i++){

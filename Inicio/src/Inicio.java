@@ -11,7 +11,8 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Felipe
- */
+ 
+ ñmñkbkjvjcgj
 public class Inicio extends javax.swing.JFrame {
     public static int ventanillasperecederos = 0;
     public static int ventanillasnoperecederos = 0;

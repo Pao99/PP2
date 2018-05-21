@@ -42,7 +42,7 @@ public class ColaPrioridad<T>{
             }            
         }
         
-        return null;
+        return ("error");
     }
         
         
